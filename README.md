@@ -1,4 +1,4 @@
-# solar_energy_prediction
+# Forecasting Energy Ouput of PV system based on radiation data 
 A project for ML course at FRI
 
 ## environment setup
