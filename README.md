@@ -1,5 +1,5 @@
 # solar_energy_prediction
-A project for SU course at FRI
+A project for ML course at FRI
 
 ## environment setup
 1. create virtual environment with python 3.10
@@ -8,5 +8,7 @@ A project for SU course at FRI
 
 ## dir
 - data: data for training and testing
-- img: plots
-- 
+- img: plots from ipynb
+
+## disclaimer
+the project is in the works, sorry for bad documentation for now
